@@ -5,9 +5,9 @@ Unlock the full potential of Cosmos DB with Cosmos DB Copilot - your personalize
 # steps to build:
 make your changes and then follow these steps
 
-npm install
-npx webpack --mode production
-vsce package
+1) npm install
+2) npx webpack --mode production
+3) vsce package
 
 
 ## Features
