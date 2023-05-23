@@ -3,7 +3,9 @@
 Unlock the full potential of Cosmos DB with Cosmos DB Copilot - your personalized guide to efficient and optimized coding.
 
 # steps to build:
-make your changes and then follow these steps
+Add the required keys inside cosmos-db-copilot-script.py
+
+make necessary code changes and then follow these steps
 
 1) npm install
 2) npx webpack --mode production
